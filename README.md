@@ -1,7 +1,13 @@
 # programming-resources
 A place to collect some of my favorite resources on programming; from abstract theory to useful examples.
 
+## Books
 
+### Code
+
+* http://www.goodreads.com/book/show/44882.Code
+* http://www.goodreads.com/book/show/3735293-clean-code
+* http://www.goodreads.com/book/show/13541678-functional-programming-in-scala
 
 ## Programming concepts
 
