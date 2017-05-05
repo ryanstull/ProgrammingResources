@@ -12,5 +12,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * http://danielwestheide.com/scala/neophytes.html
 
+### Typeclasses
+
+* https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/
+
 ### Reactive Streams
 * http://reactivex.io/intro.html
