@@ -10,6 +10,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 ## Programming concepts
 
 ### Functional Programming
+* http://fsharpforfunandprofit.com/rop/#monads
 * https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
 
 ### Scala
