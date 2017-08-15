@@ -1,7 +1,7 @@
 # programming-resources
 A place to collect some of my favorite resources on programming; from abstract theory to useful examples.
 
-## General
+## Bases of Programming
 
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 * [Data Structures](https://www.clear.rice.edu/comp160/data_cheat.html)
@@ -12,13 +12,12 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Latency](https://gist.github.com/hellerbarde/2843375)
 * [Neural Nets](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
+
 ## Books
 
-* http://www.goodreads.com/book/show/44882.Code
-* http://www.goodreads.com/book/show/3735293-clean-code
-* http://www.goodreads.com/book/show/13541678-functional-programming-in-scala
-
-## Programming concepts
+* [Code](http://www.goodreads.com/book/show/44882.Code)
+* [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)
+* [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
 
 ### Functional Programming
 * http://fsharpforfunandprofit.com/rop/#monads
