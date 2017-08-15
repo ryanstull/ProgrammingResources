@@ -9,6 +9,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Visual Algorithms and Data Structures](http://visualgo.net/)
 
 ### Architecture and Design
+* Book: [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)
 * [Object-Oriented Design Patterns](https://s-media-cache-ak0.pinimg.com/originals/e4/fb/b0/e4fbb07b8f2858e4f0b82a9f11f9ef21.jpg)
 * [Contravariance & Covariance](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-graphic-v1.png)
 
@@ -22,16 +23,14 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Machine Learning
 * [Neural Nets](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
-
-# Books
-
-* [Code](http://www.goodreads.com/book/show/44882.Code)
-* [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)
-* [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
-
 # Misc
 
+### Big Picture:
+
+* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
+
 ### Functional Programming
+* Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
 * http://fsharpforfunandprofit.com/rop/#monads
 * https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
 
