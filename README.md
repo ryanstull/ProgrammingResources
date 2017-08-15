@@ -38,6 +38,11 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * http://danielwestheide.com/scala/neophytes.html
 
+### Java
+
+* [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
+* [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
+
 ### Typeclasses
 
 * https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/
