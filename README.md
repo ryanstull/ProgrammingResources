@@ -26,16 +26,18 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Machine Learning
 * [Neural Nets](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
-# Misc
+### Distributed Ledger Technology
 
-### Big Picture:
+* [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
-* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
+# Programming Paradigms
 
 ### Functional Programming
 * Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
 * http://fsharpforfunandprofit.com/rop/#monads
 * https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
+
+# Languages
 
 ### Scala
 
@@ -45,6 +47,12 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
 * [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
+
+# Misc
+
+### Big Picture:
+
+* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
 
 ### Typeclasses
 
