@@ -1,6 +1,10 @@
 # programming-resources
 A place to collect some of my favorite resources on programming; from abstract theory to useful examples.
 
+# The Big Picture
+
+* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
+
 # Bases of Programming
 
 ### Algorithms and Data Structures:
@@ -19,7 +23,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Data Stores
 * [Sql Joins](http://www.maximemo.com/images/2015/2_1448028457.png)
 
-### Network
+### Networking
 * [Network Protocol Hierarchy](https://s-media-cache-ak0.pinimg.com/originals/69/14/ae/6914ae17a08454798765d9474a02aa47.jpg)
 * [Latency](https://gist.github.com/hellerbarde/2843375)
 
@@ -37,6 +41,15 @@ A place to collect some of my favorite resources on programming; from abstract t
 * http://fsharpforfunandprofit.com/rop/#monads
 * https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
 
+# Design Patterns
+
+### Typeclasses
+
+* https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/
+
+### Reactive Streams
+* http://reactivex.io/intro.html
+
 # Languages
 
 ### Scala
@@ -47,16 +60,3 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
 * [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
-
-# Misc
-
-### Big Picture:
-
-* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
-
-### Typeclasses
-
-* https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/
-
-### Reactive Streams
-* http://reactivex.io/intro.html
