@@ -30,7 +30,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Machine Learning
 * [Neural Nets](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
 
-### Distributed Ledger Technology
+### Distributed Consensus Technology
 
 * [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
