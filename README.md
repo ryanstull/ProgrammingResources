@@ -54,7 +54,8 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Scala
 
-* http://danielwestheide.com/scala/neophytes.html
+* [Neophytes' guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Scala bytecode and the JVM](https://www.toptal.com/scala/scala-bytecode-and-the-jvm)
 
 ### Java
 
