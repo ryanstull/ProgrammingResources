@@ -4,7 +4,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 # The Big Picture
 
 * Book: [Code](http://www.goodreads.com/book/show/44882.Code)
-* [The 12 Factor App](https://12factor.net/)
 
 # Bases of Programming
 
@@ -61,6 +60,10 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
 * [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
+
+# Dev-ops
+
+* [The 12 Factor App](https://12factor.net/)
 
 # Online Tools
 
