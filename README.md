@@ -10,7 +10,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Algorithms and Data Structures:
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-* [Data Structures](https://www.clear.rice.edu/comp160/data_cheat.html)
 * [Visual Algorithms and Data Structures](http://visualgo.net/)
 
 ### Architecture and Design
