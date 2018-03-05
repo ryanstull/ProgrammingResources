@@ -39,13 +39,13 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Functional Programming
 * Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
 * http://fsharpforfunandprofit.com/rop/#monads
-* https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
+* [Gang of Four Patterns in a Functional Light](https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/)
 
 # Design Patterns
 
 ### Typeclasses
 
-* https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/
+* [Ad-hoc polymorphism in Scala](https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/)
 
 ### Reactive Streams
 * http://reactivex.io/intro.html
