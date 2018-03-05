@@ -4,6 +4,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 # The Big Picture
 
 * Book: [Code](http://www.goodreads.com/book/show/44882.Code)
+* [The 12 Factor App](https://12factor.net/)
 
 # Bases of Programming
 
