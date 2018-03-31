@@ -51,6 +51,10 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 # Languages
 
+### General
+
+* [What's Next](https://graydon2.dreamwidth.org/253769.html) \(For programming languages\)
+
 ### Scala
 
 * [Neophytes' guide to Scala](http://danielwestheide.com/scala/neophytes.html)
