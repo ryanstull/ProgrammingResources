@@ -35,6 +35,10 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 # Programming Paradigms
 
+### Overview
+
+* http://cs.lmu.edu/~ray/notes/paradigms/
+
 ### Functional Programming
 * Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
 * http://fsharpforfunandprofit.com/rop/#monads
