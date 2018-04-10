@@ -69,6 +69,12 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
 * [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
 
+# Frameworks
+
+### Spring
+
+* [Core concepts of Spring](http://courses.coreservlets.com/Course-Materials/spring.html)
+
 # Dev-ops
 
 * [The 12 Factor App](https://12factor.net/)
@@ -76,3 +82,4 @@ A place to collect some of my favorite resources on programming; from abstract t
 # Online Tools
 
 * [Regex 101](https://regex101.com/)
+* [FlowChart Maker](https://www.draw.io/)
