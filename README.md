@@ -36,6 +36,12 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
+# Arcitecture
+
+### Integration Patterns
+
+* [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+
 # Programming Paradigms
 
 ### Overview
