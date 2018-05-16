@@ -12,9 +12,8 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 * [Visual Algorithms and Data Structures](http://visualgo.net/)
 
-### Architecture and Design
+### Organization
 * Book: [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)
-* [Object-Oriented Design Patterns](https://s-media-cache-ak0.pinimg.com/originals/e4/fb/b0/e4fbb07b8f2858e4f0b82a9f11f9ef21.jpg)
 
 ### Error Handling
 * ['Railway-Oriented' Programming](http://fsharpforfunandprofit.com/rop/#monads)
@@ -36,11 +35,22 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
-# Arcitecture
+# Architecture & Design Patterns
 
 ### Integration Patterns
 
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+
+### Object Oriented Design Patterns
+
+* [Object-Oriented Design Patterns](https://s-media-cache-ak0.pinimg.com/originals/e4/fb/b0/e4fbb07b8f2858e4f0b82a9f11f9ef21.jpg)
+
+### Typeclasses
+
+* [Ad-hoc polymorphism in Scala](https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/)
+
+### Reactive Streams
+* http://reactivex.io/intro.html
 
 # Programming Paradigms
 
@@ -57,15 +67,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Web Devlopment
 * [Modern Javascript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
-
-# Design Patterns
-
-### Typeclasses
-
-* [Ad-hoc polymorphism in Scala](https://blog.codecentric.de/en/2017/02/ad-hoc-polymorphism-scala-mere-mortals/)
-
-### Reactive Streams
-* http://reactivex.io/intro.html
 
 # Languages
 
