@@ -86,6 +86,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Java
 
+* [JVM Internal](http://blog.jamesdbloom.com/JVMInternals.html)
 * [Introduction to Java Bytecode](https://dzone.com/articles/introduction-to-java-bytecode)
 * [Generics](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-v5.png)
 * [Streams](https://zeroturnaround.com/wp-content/uploads/2016/01/Java-8-Streams-cheat-sheet-v3.png)
