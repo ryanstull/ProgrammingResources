@@ -37,7 +37,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
-# Architecture & Design Patterns
+# Architecture & Design
+
+## Design Patterns
 
 ### Integration Patterns
 
@@ -53,6 +55,11 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Reactive Streams
 * http://reactivex.io/intro.html
+
+## Architecture
+
+* [The Principles of Clean Code](https://www.youtube.com/watch?v=o_TH-Y78tt4&t=10m30s)
+* [Functional Arcitecture](https://www.youtube.com/watch?v=US8QG9I1XW0)
 
 # Programming Paradigms
 
