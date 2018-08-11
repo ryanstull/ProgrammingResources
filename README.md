@@ -3,9 +3,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 # The Big Picture
 
-* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
-* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&t=0s&index=6&list=PLuw7QtA2XDtcdI5DJFAGN78T4HHzkD-7u)
+* [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+* Book: [Code](http://www.goodreads.com/book/show/44882.Code)
 
 # Bases of Programming
 
