@@ -22,6 +22,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Contravariance & Covariance](https://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet-graphic-v1.png)
 
 ### Data Stores
+* [Database Normalization](https://www.guru99.com/database-normalization.html)
 * [Sql Joins](http://www.maximemo.com/images/2015/2_1448028457.png)
 
 ### Networking
