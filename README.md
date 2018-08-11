@@ -106,9 +106,15 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 # Frameworks
 
+## Java Frameworks
+
 ### Spring
 
 * [Core concepts of Spring](http://courses.coreservlets.com/Course-Materials/spring.html)
+
+### Checker Framework
+
+* [Checker Framework](https://checkerframework.org/)
 
 # Dev-ops
 
