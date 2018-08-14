@@ -58,7 +58,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ## Architecture
 
-* [The Principles of Clean Code](https://www.youtube.com/watch?v=o_TH-Y78tt4&t=10m30s)
+* [The Principles of Clean Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4&t=10m30s)
 * [Functional Arcitecture](https://www.youtube.com/watch?v=US8QG9I1XW0)
 
 # Programming Paradigms
