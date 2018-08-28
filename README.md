@@ -83,6 +83,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### General
 
 * [What's Next](https://graydon2.dreamwidth.org/253769.html) \(For programming languages\)
+* [Programming Language Geneology Tree](https://github.com/stereobooster/programming-languages-genealogical-tree)
 
 ### Scala
 
