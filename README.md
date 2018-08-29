@@ -131,5 +131,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 ### Online Tools
 
 * [Regex 101](https://regex101.com/)
+* [SQL Fiddle](http://sqlfiddle.com)
 * [FlowChart Maker](https://www.draw.io/)
 * [Crontab Guru](https://crontab.guru/)
