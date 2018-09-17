@@ -28,7 +28,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Networking
 * [Network Protocol Hierarchy](https://s-media-cache-ak0.pinimg.com/originals/69/14/ae/6914ae17a08454798765d9474a02aa47.jpg)
-* [Common Latency Numbers](https://gist.github.com/hellerbarde/2843375)
+* [Common Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 
 ### Machine Learning
 * [Neural Net Zoo](http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)
