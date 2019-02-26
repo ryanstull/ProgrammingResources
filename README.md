@@ -135,3 +135,4 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [SQL Fiddle](http://sqlfiddle.com)
 * [FlowChart Maker](https://www.draw.io/)
 * [Crontab Guru](https://crontab.guru/)
+* [Tables Generator](https://www.tablesgenerator.com/)
