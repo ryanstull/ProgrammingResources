@@ -108,6 +108,10 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Why C Has Pointers](http://duramecho.com/ComputerInformation/WhyCPointers.html)
 
+### CSS
+
+* [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 # Frameworks
 
 ## Java Frameworks
