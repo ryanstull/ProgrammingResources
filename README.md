@@ -73,6 +73,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 * http://fsharpforfunandprofit.com/rop/#monads
 * [Gang of Four Patterns in a Functional Light](https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/)
 
+### Generic Programming
+* [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
+
 # Programming Domains
 
 ### Web Devlopment
@@ -86,9 +89,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Programming Language Geneology Tree](https://github.com/stereobooster/programming-languages-genealogical-tree)
 * [What's been the most influential programming language and why?](https://www.quora.com/Whats-been-the-most-influential-programming-language-and-why)
 * [Graph of programming languages, connected by compilers](https://akr.am/languages/)
-
-### Generic Programming
-* [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
 
 ### Scala
 
