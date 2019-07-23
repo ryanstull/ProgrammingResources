@@ -37,6 +37,20 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 * [Conceptual Overiew of the Blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
+# Programming Paradigms
+
+### Overview
+
+* http://cs.lmu.edu/~ray/notes/paradigms/
+
+### Functional Programming
+* Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
+* http://fsharpforfunandprofit.com/rop/#monads
+* [Gang of Four Patterns in a Functional Light](https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/)
+
+### Generic Programming
+* [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
+
 # Architecture & Design
 
 ## Design Patterns
@@ -61,20 +75,6 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [The Principles of Clean Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4&t=10m30s)
 * [Functional Arcitecture](https://www.youtube.com/watch?v=US8QG9I1XW0)
-
-# Programming Paradigms
-
-### Overview
-
-* http://cs.lmu.edu/~ray/notes/paradigms/
-
-### Functional Programming
-* Book: [Functional Programming in Scala](http://www.goodreads.com/book/show/13541678-functional-programming-in-scala)
-* http://fsharpforfunandprofit.com/rop/#monads
-* [Gang of Four Patterns in a Functional Light](https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/)
-
-### Generic Programming
-* [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
 
 # Programming Domains
 
