@@ -87,6 +87,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [What's been the most influential programming language and why?](https://www.quora.com/Whats-been-the-most-influential-programming-language-and-why)
 * [Graph of programming languages, connected by compilers](https://akr.am/languages/)
 
+### Generic Programming
+* [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
+
 ### Scala
 
 * [Neophytes' guide to Scala](http://danielwestheide.com/scala/neophytes.html)
