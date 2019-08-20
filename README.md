@@ -99,6 +99,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Underscore.io books on Scala](https://underscore.io/training/)
 * [Type-Level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
 * [Dependency Injection in Scala: Guide](http://di-in-scala.github.io/)
+* [Returning the "Current" Type in Scala](https://tpolecat.github.io/2015/04/29/f-bounds.html)
 
 ### Java
 
