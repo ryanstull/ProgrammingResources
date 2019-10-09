@@ -24,7 +24,7 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 ### Data Stores
 * [Database Normalization](https://www.guru99.com/database-normalization.html)
-* [Sql Joins](https://coloringpagewiki.com/library/2789914/what-is-the-difference-between-various-types-of-joins-for-instance-for-more-information-visit-whats-the-difference-between-inner-join-left-join-right-join-and-full-join.jpg)
+* [Sql Joins](https://external-preview.redd.it/M5QHWsp2vgZ-3QDZ4m-qS58lsOUgDNHau8trSFzS8H0.jpg?auto=webp&s=cae9cdc438b71c9025d40dad4650801fdcae1ef8)
 
 ### Networking
 * [Network Protocol Hierarchy](https://s-media-cache-ak0.pinimg.com/originals/69/14/ae/6914ae17a08454798765d9474a02aa47.jpg)
