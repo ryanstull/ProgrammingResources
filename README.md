@@ -1,11 +1,16 @@
 # programming-resources
 A place to collect some of my favorite resources on programming; from abstract theory to useful examples.
 
-# The Big Picture
-
+# Key Topics and Concepts
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&t=0s&index=6&list=PLuw7QtA2XDtcdI5DJFAGN78T4HHzkD-7u)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+
+## Hardware
 * Book: [Code](http://www.goodreads.com/book/show/44882.Code)
+* [Common Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
+# Programming Wisdom
+* [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
 # Bases of Programming
 
