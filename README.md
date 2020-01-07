@@ -139,6 +139,11 @@ A place to collect some of my favorite resources on programming; from abstract t
 
 # Tools
 
+### Unix tools
+
+* [Normal ssh tunnel illustration](https://i.stack.imgur.com/a28N8.png)
+* [Reverse ssh tunnel illustration](https://i.stack.imgur.com/4iK3b.png)
+
 ### Version Control
 
 * [Semantic Versioning vs. Romantic Versioning](http://dafoster.net/articles/2015/03/14/semantic-versioning-vs-romantic-versioning/)
