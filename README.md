@@ -31,6 +31,9 @@ A place to collect some of my favorite resources on programming; from abstract t
 * [Database Normalization](https://www.guru99.com/database-normalization.html)
 * [Sql Joins](https://external-preview.redd.it/M5QHWsp2vgZ-3QDZ4m-qS58lsOUgDNHau8trSFzS8H0.jpg?auto=webp&s=cae9cdc438b71c9025d40dad4650801fdcae1ef8)
 
+### Concurrency and Parallelism
+* [Processes, threads, green threads, protothreads, fibers, coroutines: what's the difference?](https://stackoverflow.com/questions/3324643/processes-threads-green-threads-protothreads-fibers-coroutines-whats-the)
+
 ### Networking
 * [Network Protocol Hierarchy](https://s-media-cache-ak0.pinimg.com/originals/69/14/ae/6914ae17a08454798765d9474a02aa47.jpg)
 * [Common Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
